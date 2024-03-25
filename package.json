@@ -1,6 +1,7 @@
 {
   "name": "desafio-evaluado-22-abracadabra",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "server": "node index.js",
@@ -14,7 +15,7 @@
   "dependencies": {
     "express": "^4.18.3"
   },
-  "description": "",
+  
   "devDependencies": {
     "nodemon": "^3.1.0"
   }
